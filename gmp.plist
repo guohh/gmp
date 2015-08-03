@@ -25,7 +25,7 @@
             <key>needs-shine</key>  
             <true/>  
             <key>url</key>  
-            <string>http://61.144.66.55:9083/gmp/download/logo.png</string> 
+            <string>http://colgateapp.takecn.cn/app/ios/ilearn_57.png</string> 
           </dict>  
           <!-- full-size-image: the large 512×512 icon used by iTunes. -->  
           <dict> 
@@ -34,7 +34,7 @@
             <key>needs-shine</key>  
             <true/>  
             <key>url</key>  
-            <string>http://61.144.66.55:9083/gmp/download/logo.png</string> 
+            <string>http://colgateapp.takecn.cn/app/ios/ilearn_512.png</string> 
           </dict> 
         </array>
         <key>metadata</key>  
